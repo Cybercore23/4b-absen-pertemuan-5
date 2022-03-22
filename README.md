@@ -21,3 +21,4 @@ Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 - [Damareindra Ihya Ullummuddien] - [2010631170061]
 - [Indira Nur Amalia] - [2010631170011]
 - [Faiz Agil Firmansyah] - [2010631170067]
+- [Chendra Muhammad Azhari Sofyan[ - [2010631170140[
